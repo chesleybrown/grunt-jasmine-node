@@ -28,7 +28,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "jasmine-node": "git://github.com/mhevery/jasmine-node#Jasmine2.0",
+    "jasmine-node": "1.14.3",
     "coffee-script": "~1.6.2"
   },
   "devDependencies": {
